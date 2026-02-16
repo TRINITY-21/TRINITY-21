@@ -35,25 +35,20 @@ Tools          Git · Puppeteer · Hadoop · REST APIs
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TRINITY-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRINITY-21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TRINITY-21&theme=tokyonight&hide_border=true)
+
+| Stat | Count |
+|------|-------|
+| Public Repos | 90+ |
+| Total Contributions | 488+ |
+| Longest Streak | 14 days |
+| Languages | JavaScript, TypeScript, Python, Java, Dart, C++, PHP |
 
 </div>
 
 ---
 
-### Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TRINITY-21&theme=tokyo-night&hide_border=true&area=true)
-
----
-
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=TRINITY-21&color=6366f1&style=flat&label=Profile+Views)
 
 *Building tools I actually use.*
 
