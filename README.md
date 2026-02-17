@@ -73,8 +73,9 @@
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TRINITY-21)
-[![Website](https://img.shields.io/badge/-jagyeman.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://jagyeman.dev/)
+[![GitHub](https://img.shields.io/badge/-@TRINITY--21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TRINITY-21)
+[![Website](https://img.shields.io/badge/-jagyeman.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jagyeman.dev/)
+[![GitHub Follow](https://img.shields.io/github/followers/TRINITY-21?label=Follow&style=for-the-badge&logo=github)](https://github.com/TRINITY-21)
 
 ---
 
