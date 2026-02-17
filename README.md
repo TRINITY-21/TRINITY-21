@@ -25,6 +25,7 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## Current Projects
+- 🤖 **[PingBot](https://github.com/TRINITY-21/pingbot)** - Telegram bot for daily briefings (weather, crypto, news) + trivia with leaderboards
 - ⚡ **[Pulse](https://github.com/TRINITY-21/pulse)** - Live TUI dashboard — weather, crypto, news, and GitHub in one terminal
 - ✈️ **[Travel-Planner](https://github.com/TRINITY-21/Travel-Planner)** - Plan trips on interactive maps with drag-and-drop itineraries
 - 🌐 **[tldr-web](https://github.com/TRINITY-21/tldr-web)** - Point at any URL. Get a streaming AI summary instantly
