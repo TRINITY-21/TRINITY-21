@@ -24,7 +24,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/-Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="divider" />
+---
 
 ## Web Apps
 
@@ -46,7 +46,7 @@
 
 - ✅ **[Todoer](https://github.com/TRINITY-21/todoer)** – Clean, minimal task management app. React Native.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="divider" />
+---
 
 ## Past Work
 
@@ -60,7 +60,7 @@
 - 🛍️ **[React Shop](https://github.com/TRINITY-21/REACT-SHOP)** – E-commerce storefront built with React.
 - 👨‍💼 **[Staff Management](https://github.com/TRINITY-21/STAFF-MANAGEMENT-SYSTEM-IN-CPP)** – Employee management system in C++.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="divider" />
+---
 
 ## What I'm Up To
 
@@ -70,22 +70,21 @@
 - **Shipping fast** — Went from planning for weeks to deploying in days.
 - **Learning in public** — 90+ repos and counting. Not all polished, but all real.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="divider" />
+---
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TRINITY-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=A855F7&title_color=A855F7" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRINITY-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" height="170" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TRINITY-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=A855F7&title_color=A855F7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRINITY-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TRINITY-21&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TRINITY-21&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF)](https://github.com/TRINITY-21)
-
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="divider" />
+---
 
 ## Connect
 
@@ -93,6 +92,6 @@
 [![Website](https://img.shields.io/badge/-jagyeman.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jagyeman.dev/)
 [![GitHub Follow](https://img.shields.io/github/followers/TRINITY-21?label=Follow&style=for-the-badge&logo=github)](https://github.com/TRINITY-21)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="divider" />
+---
 
 > *"Ship beats perfect."* — Build it, push it, improve it later.
