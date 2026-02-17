@@ -54,7 +54,7 @@
 
 - **Vibe coding with AI** — Building with Claude, Copilot, and ChatGPT. Prompting is the new typing.
 - **Shipping CLI tools & web apps** — Done with tutorial projects. Everything I build now, I actually use.
-- **Consuming every API** — TMDB, TVMaze, Spotify, Giphy, Groq, Leaflet/OpenStreetMap, and counting. If it has an endpoint, I'm calling it.
+- **Consuming every API** — If it has an endpoint, I'm calling it.
 - **Shipping fast** — Went from planning for weeks to deploying in days.
 - **Learning in public** — 90+ repos and counting. Not all polished, but all real.
 
