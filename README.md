@@ -27,14 +27,15 @@
 
 ## Current Projects
 
+- 📰 **[tldr](https://github.com/TRINITY-21/tldr)** – URL/article summarizer CLI. Fetch any URL, extract the text, and get AI-powered summaries with Groq. Python + Click + Rich + trafilatura + Groq API.
 - 🎧 **[Auxcord](https://github.com/TRINITY-21/auxcord)** – Spotify CLI. Search tracks, explore artists, browse albums, and discover similar music — all from your terminal. Go + Cobra + Lip Gloss + Spotify API.
 - 🎞 **[Loopie](https://github.com/TRINITY-21/loopie)** – GIF search CLI. Search, browse trending, and grab random GIFs with styled output. TypeScript + Commander.js + Chalk + Giphy API.
 - 🍿 **[Popkorn](https://github.com/TRINITY-21/popkorn)** – Entertainment CLI for movies, TV shows, actors, trailers, and streaming providers — all from your terminal. Python + TMDB + TVMaze.
 - 🎬 **[Cinescope](https://github.com/TRINITY-21/cinescope)** – Movie and TV discovery web app. JavaScript frontend powered by entertainment APIs.
 - 🌐 **[Portfolio](https://github.com/TRINITY-21/portfolio)** – Personal portfolio site. TypeScript + modern frontend stack.
-- 🔗 **[EchoWeb](https://github.com/TRINITY-21/echoweb)** – Discover new artists full-stack web project built with TypeScript.
-- ✅ **[Todoer](https://github.com/TRINITY-21/todoer)** – Clean, minimal task management app. React Native.
-- 🛒 **[Ovalve](https://github.com/TRINITY-21/ovalve)** – Watch Live Sport web application. TypeScript.
+- 🔗 **[EchoWeb](https://github.com/TRINITY-21/echoweb)** – Full-stack web project built with TypeScript.
+- ✅ **[Todoer](https://github.com/TRINITY-21/todoer)** – Clean, minimal task management app. TypeScript.
+- 🛒 **[Ovalve](https://github.com/TRINITY-21/ovalve)** – E-commerce web application. TypeScript.
 
 ---
 
@@ -56,7 +57,7 @@
 
 - **Vibe coding with AI** — Building with Claude, Copilot, and ChatGPT. Prompting is the new typing.
 - **Shipping CLI tools** — Done with tutorial projects. Everything I build now, I actually use.
-- **Consuming every API** — TMDB, TVMaze, Spotify, Giphy, and counting. If it has an endpoint, I'm calling it.
+- **Consuming every API** — TMDB, TVMaze, Spotify, Giphy, Groq, and counting. If it has an endpoint, I'm calling it.
 - **Shipping fast** — Went from planning for weeks to deploying in days.
 - **Learning in public** — 90+ repos and counting. Not all polished, but all real.
 
