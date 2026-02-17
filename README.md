@@ -65,7 +65,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TRINITY-21&theme=tokyonight&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TRINITY-21&theme=tokyo-night&hide_border=true)
+![GitHub Contribution Chart](https://ghchart.rshah.org/TRINITY-21)
 
 </div>
 
