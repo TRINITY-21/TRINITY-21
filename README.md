@@ -25,6 +25,7 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## Current Projects
+- ⚡ **[Zap](https://github.com/TRINITY-21/zap)** - Python subprocess, but actually nice. Zero-dep, pipe chaining, async. [`pip install zap-sh`](https://pypi.org/project/zap-sh/)
 - 📡 **[Briefkit](https://github.com/TRINITY-21/briefkit)** - REST API serving weather, crypto, and news with API key auth and Swagger docs
 - 🔍 **[Snoop](https://github.com/TRINITY-21/snoop)** - CLI price tracker with web scraping, SQLite history, and Telegram drop alerts
 - 🤖 **[PingBot](https://github.com/TRINITY-21/pingbot)** - Telegram bot for daily briefings (weather, crypto, news) + trivia with leaderboards
