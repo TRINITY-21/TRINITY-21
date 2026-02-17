@@ -32,9 +32,9 @@
 - 🍿 **[Popkorn](https://github.com/TRINITY-21/popkorn)** – Entertainment CLI for movies, TV shows, actors, trailers, and streaming providers — all from your terminal. Python + TMDB + TVMaze.
 - 🎬 **[Cinescope](https://github.com/TRINITY-21/cinescope)** – Movie and TV discovery web app. JavaScript frontend powered by entertainment APIs.
 - 🌐 **[Portfolio](https://github.com/TRINITY-21/portfolio)** – Personal portfolio site. TypeScript + modern frontend stack.
-- 🔗 **[EchoWeb](https://github.com/TRINITY-21/echoweb)** – Full-stack web project built with TypeScript.
-- ✅ **[Todoer](https://github.com/TRINITY-21/todoer)** – Clean, minimal task management app. TypeScript.
-- 🛒 **[Ovalve](https://github.com/TRINITY-21/ovalve)** – E-commerce web application. TypeScript.
+- 🔗 **[EchoWeb](https://github.com/TRINITY-21/echoweb)** – Discover new artistsFull-stack web project built with TypeScript.
+- ✅ **[Todoer](https://github.com/TRINITY-21/todoer)** – Clean, minimal task management app. React Native.
+- 🛒 **[Ovalve](https://github.com/TRINITY-21/ovalve)** – Watch Live Sport web application. TypeScript.
 
 ---
 
