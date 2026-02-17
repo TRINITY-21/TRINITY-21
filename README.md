@@ -1,6 +1,6 @@
 # Hi, I'm TRINITY 👋
 
-**Software Engineer** · **ML Engineer** · Full-stack builder · Vibe coder · 📍 Istanbul, Turkey
+**Software Engineer** · **ML Engineer** · Full-Stack Builder · Vibe Coder · 📍 Istanbul, Turkey
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -14,47 +14,48 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Claude CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-> *Went from building school projects to building CLI tools I actually use daily. Currently deep in vibe coding mode — shipping fast with AI, API integrations, and terminal tooling.*
+> *I build tools I actually want to use. Currently deep in vibe coding mode — shipping fast with AI, consuming every API I can find, and living in the terminal.*
 
 ---
 
 ## Current Projects
 
-- 🍿 **[Popkorn](https://github.com/TRINITY-21/popkorn)** – Entertainment CLI. Search movies, TV shows, actors, trailers, and streaming providers straight from the terminal. Python + TMDB + TVMaze APIs.
-- 🎬 **[Cinescope](https://github.com/TRINITY-21/cinescope)** – Movie & TV discovery web app. JavaScript frontend consuming entertainment APIs.
+- 🍿 **[Popkorn](https://github.com/TRINITY-21/popkorn)** – Entertainment CLI for movies, TV shows, actors, trailers, and streaming providers — all from your terminal. Python + TMDB + TVMaze.
+- 🎬 **[Cinescope](https://github.com/TRINITY-21/cinescope)** – Movie and TV discovery web app. JavaScript frontend powered by entertainment APIs.
 - 🌐 **[Portfolio](https://github.com/TRINITY-21/portfolio)** – Personal portfolio site. TypeScript + modern frontend stack.
-- 🔗 **[EchoWeb](https://github.com/TRINITY-21/echoweb)** – Web project built with TypeScript.
-- ✅ **[Todoer](https://github.com/TRINITY-21/todoer)** – Task management app. TypeScript.
-- 🛒 **[Ovalve](https://github.com/TRINITY-21/ovalve)** – TypeScript web application.
+- 🔗 **[EchoWeb](https://github.com/TRINITY-21/echoweb)** – Full-stack web project built with TypeScript.
+- ✅ **[Todoer](https://github.com/TRINITY-21/todoer)** – Clean, minimal task management app. TypeScript.
+- 🛒 **[Ovalve](https://github.com/TRINITY-21/ovalve)** – E-commerce web application. TypeScript.
 
 ---
 
 ## Past Work
 
-- 🏨 **[Hotel Management Service](https://github.com/TRINITY-21/Spring-Boot-Hotel-Management-Service-with-Maven)** – Full Spring Boot microservice with Maven. Built the backend + [frontend](https://github.com/TRINITY-21/Frontend-spring-boot-hotel-Management-application) + [microservice layer](https://github.com/TRINITY-21/Backend-spring-Boot-Hotel-Management-Microservice).
+- 🏨 **[Hotel Management Service](https://github.com/TRINITY-21/Spring-Boot-Hotel-Management-Service-with-Maven)** – Full Spring Boot microservice with Maven — [backend](https://github.com/TRINITY-21/Backend-spring-Boot-Hotel-Management-Microservice), [frontend](https://github.com/TRINITY-21/Frontend-spring-boot-hotel-Management-application), and microservice layer.
 - 💬 **[MERN Debate App](https://github.com/TRINITY-21/MERN-DEBATE_APP)** – Post, debunk, and support debates. Full MERN stack + [Flutter mobile version](https://github.com/TRINITY-21/FLUTTER-DEBATE-APP).
-- 📱 **[Flutter Blog App](https://github.com/TRINITY-21/FLUTTER_WITH_NODEJS_BLOG_APP)** – Flutter frontend + Node.js backend with Express & Mongoose.
-- 🤖 **[Puppeteer Scraper](https://github.com/TRINITY-21/nodejs-puppeteer-scraping)** – Web scraping with Node.js and Puppeteer.
-- 📊 **[Hadoop MapReduce](https://github.com/TRINITY-21/hadoop-map-reducers)** – MapReduce jobs for text processing.
+- 📱 **[Flutter Blog App](https://github.com/TRINITY-21/FLUTTER_WITH_NODEJS_BLOG_APP)** – Cross-platform blog with Flutter frontend and Node.js + Express + Mongoose backend.
+- 🤖 **[Puppeteer Scraper](https://github.com/TRINITY-21/nodejs-puppeteer-scraping)** – Automated web scraping with Node.js and Puppeteer.
+- 📊 **[Hadoop MapReduce](https://github.com/TRINITY-21/hadoop-map-reducers)** – Distributed MapReduce jobs for large-scale text processing.
 - 🧵 **[Conv2D Multithreading](https://github.com/TRINITY-21/conv2D-multithreading)** – 2D convolution with multithreading in C.
-- 📺 **[YouTube Clone](https://github.com/TRINITY-21/FLUTTER-YOUTUBE-CLONE)** – YouTube UI clone in Flutter.
-- 🛍️ **[React Shop](https://github.com/TRINITY-21/REACT-SHOP)** – E-commerce frontend with React.
-
-👨‍💼 **[Staff Management](https://github.com/TRINITY-21/STAFF-MANAGEMENT-SYSTEM-IN-CPP)** – Employee management system in C++.
+- 📺 **[YouTube Clone](https://github.com/TRINITY-21/FLUTTER-YOUTUBE-CLONE)** – Pixel-accurate YouTube UI clone in Flutter.
+- 🛍️ **[React Shop](https://github.com/TRINITY-21/REACT-SHOP)** – E-commerce storefront built with React.
+- 👨‍💼 **[Staff Management](https://github.com/TRINITY-21/STAFF-MANAGEMENT-SYSTEM-IN-CPP)** – Employee management system in C++.
 
 ---
 
 ## What I'm Up To
 
-- **Building CLI tools** – Tired of tutorial projects. Now building things I actually use from the terminal.
-- **Deep in APIs** – TMDB, TVMaze, Spotify, and more. If there's an API, I'm probably consuming it.
-- **Shipping fast** – Went from planning for weeks to shipping in days.
-- **Learning in public** – 90+ repos and counting. Not all pretty, but all real.
+- **Vibe coding with AI** — Building with Claude, Copilot, and ChatGPT. Prompting is the new typing.
+- **Shipping CLI tools** — Done with tutorial projects. Everything I build now, I actually use.
+- **Consuming every API** — TMDB, TVMaze, Spotify, and counting. If it has an endpoint, I'm calling it.
+- **Shipping fast** — Went from planning for weeks to deploying in days.
+- **Learning in public** — 90+ repos and counting. Not all polished, but all real.
 
 ---
 
@@ -74,4 +75,4 @@
 
 ---
 
-> *"Ship beats perfect."* Build it, push it, improve it later.
+> *"Ship beats perfect."* — Build it, push it, improve it later.
