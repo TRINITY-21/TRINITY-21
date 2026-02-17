@@ -25,6 +25,7 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## Current Projects
+- 🐺 **[huntd](https://github.com/TRINITY-21/huntd)** - Your coding fingerprint — local git analytics dashboard. Streaks, heatmaps, language trends, health scores across all your repos. [`pip install huntd`](https://pypi.org/project/huntd/)
 - 💳 **[mcp-server-paystack](https://github.com/TRINITY-21/mcp-server-paystack)** - MCP server for Paystack — accept payments, verify transactions, manage customers through AI assistants. [`pip install mcp-server-paystack`](https://pypi.org/project/mcp-server-paystack/)
 - 🧹 **[Sweep](https://github.com/TRINITY-21/sweep-cli)** - Find and clean dev artifacts (node_modules, .venv, target/) across all projects. Interactive TUI, 10 ecosystems, git-aware. [`pip install sweep-cli`]
 - ⚡ **[Zap](https://github.com/TRINITY-21/zap)** - Python subprocess, but actually nice. Zero-dep, pipe chaining, async. [`pip install zap-sh`](https://pypi.org/project/zap-sh/)
