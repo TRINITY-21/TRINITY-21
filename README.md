@@ -28,6 +28,7 @@
 ## Current Projects
 
 - 📰 **[tldr](https://github.com/TRINITY-21/tldr)** – URL/article summarizer CLI. Fetch any URL, extract the text, and get AI-powered summaries with Groq. Python + Click + Rich + trafilatura + Groq API.
+- 🌐 **[tldr-web](https://github.com/TRINITY-21/tldr-web)** – Web version of tldr. Dark glassmorphism UI with streaming summaries, Q&A mode, bullet points, and translation. Next.js + Tailwind CSS + Vercel AI SDK + Groq API.
 - 🎧 **[Auxcord](https://github.com/TRINITY-21/auxcord)** – Spotify CLI. Search tracks, explore artists, browse albums, and discover similar music — all from your terminal. Go + Cobra + Lip Gloss + Spotify API.
 - 🎞 **[Loopie](https://github.com/TRINITY-21/loopie)** – GIF search CLI. Search, browse trending, and grab random GIFs with styled output. TypeScript + Commander.js + Chalk + Giphy API.
 - 🍿 **[Popkorn](https://github.com/TRINITY-21/popkorn)** – Entertainment CLI for movies, TV shows, actors, trailers, and streaming providers — all from your terminal. Python + TMDB + TVMaze.
