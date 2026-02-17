@@ -1,6 +1,6 @@
-# Hi, I'm TRINITY 👋
+# Hi, I'm Joe 👋
 
-**Software Engineer** · **ML Engineer** · Full-Stack Builder · Vibe Coder · 📍 Istanbul, Turkey
+📍 Istanbul, Turkey | **ML Engineer** | Full-Stack Builder | Vibe Coder
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -16,7 +16,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Claude CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=windowsterminal&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
@@ -65,6 +65,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TRINITY-21&theme=tokyonight&hide_border=true)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TRINITY-21&theme=tokyo-night&hide_border=true)
+
 </div>
 
 ---
@@ -72,6 +74,7 @@
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TRINITY-21)
+[![Website](https://img.shields.io/badge/-jagyeman.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://jagyeman.dev/)
 
 ---
 
