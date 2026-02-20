@@ -25,6 +25,7 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## Current Projects
+- 🎬 **[VideoDrop](https://github.com/TRINITY-21/videodrop)** - 34 free browser-based video tools — compress, convert, trim, merge, GIF, effects, and more. No uploads, no servers, 100% private. FFmpeg.wasm + Next.js. [videodrop.app](https://videodrop.app)
 - 🐺 **[huntd-vscode](https://github.com/TRINITY-21/huntd-vscode)** - huntd sidebar for VS Code — streaks, heatmaps, languages, achievements right in the editor. [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=JosephYawAgyeman.huntd)
 - 🐺 **[huntd](https://github.com/TRINITY-21/huntd)** - Your coding fingerprint — local git analytics dashboard. Streaks, heatmaps, language trends, health scores across all your repos. [`pip install huntd`](https://pypi.org/project/huntd/)
 - 💳 **[mcp-server-paystack](https://github.com/TRINITY-21/mcp-server-paystack)** - MCP server for Paystack — accept payments, verify transactions, manage customers through AI assistants. [`pip install mcp-server-paystack`](https://pypi.org/project/mcp-server-paystack/)
