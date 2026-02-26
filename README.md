@@ -25,6 +25,7 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## Current Projects
+- 📐 **[dotruler](https://github.com/TRINITY-21/dotruler)** - One config. Every AI coding tool. Always in sync. Generate CLAUDE.md, .cursorrules, copilot-instructions, and more from a single `.dotruler.toml`. [`pip install dotruler`](https://pypi.org/project/dotruler/)
 - 🎬 **[VideoDrop](https://github.com/TRINITY-21/videodrop)** - 34 free browser-based video tools — compress, convert, trim, merge, GIF, effects, and more. No uploads, no servers, 100% private. FFmpeg.wasm + Next.js. [videodrop.app](https://videodrop.vercel.app/)
 - 🐺 **[huntd-vscode](https://github.com/TRINITY-21/huntd-vscode)** - huntd sidebar for VS Code — streaks, heatmaps, languages, achievements right in the editor. [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=JosephYawAgyeman.huntd)
 - 🐺 **[huntd](https://github.com/TRINITY-21/huntd)** - Your coding fingerprint — local git analytics dashboard. Streaks, heatmaps, language trends, health scores across all your repos. [`pip install huntd`](https://pypi.org/project/huntd/)
