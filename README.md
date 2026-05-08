@@ -1,6 +1,6 @@
 # Hi, I'm Joe 👋
 
-📍 Istanbul, Turkey | **ML Engineer** | Full-Stack Builder | Vibe Coder
+📍 Istanbul, Turkey | **ML Engineer** | Full-Stack Builder
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&width=500&lines=Building+tools+I+actually+want+to+use;Shipping+fast+with+AI;Consuming+every+API+I+can+find;Living+in+the+terminal" alt="Typing SVG" /></a>
 
